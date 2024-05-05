@@ -1,0 +1,18 @@
+
+h1{
+    color: rgb(199, 8, 8);
+    background-color: rgb(94, 236, 29);
+    height: 100px;
+    width: 100px;
+    display: inline;
+    font-family: "Jacquard 24 Charted", system-ui;
+    font-weight: 800px;
+    font-style: normal;
+    font-size: xx-large;
+}
+#button{
+color: azure;
+background-color: blue;
+height: 30px;
+width: 100px;
+}
